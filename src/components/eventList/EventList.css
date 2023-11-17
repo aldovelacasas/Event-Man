@@ -1,0 +1,18 @@
+.event-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Alineación a la izquierda */
+    gap: 16px;
+    
+
+  }
+  
+  .custom-card {
+    width: calc(24% - 3px);
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: 3px solid violet; /* Cambia "blue" al color que desees */
+
+}
+  
+  
