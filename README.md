@@ -16,6 +16,6 @@ Para ejecutar la aplicación en modo de desarrollo:
 
 ```bash
 npm run dev
-;
+
 
 
