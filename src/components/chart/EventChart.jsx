@@ -88,7 +88,7 @@ const EventChart = () => {
             <svg ref={chartRef} style={{ width: '100%', height: '100%' }}>
 
           <g className="x-axis" transform={`translate(0, ${300 - 30})`} />
-          <g className="y-axis" transform={`translate(40, 0)`} />
+          <g className="y-axis" transform={`translate(50, 5)`} />
         </svg>
       )}
     </>

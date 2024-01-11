@@ -34,7 +34,7 @@ function App() {
         width="100vw"
         height="50vh"
         borderRadius={8}
-        boxShadow={3}
+        
       >
         <EventChart />
       </Box>
